@@ -1,0 +1,16 @@
+.git
+.gitignore
+.github
+.idea
+.vscode
+*.swp
+*.swo
+tmp/
+bin/
+dist/
+coverage/
+coverage.out
+vendor/
+*.log
+.env
+!.env.example
